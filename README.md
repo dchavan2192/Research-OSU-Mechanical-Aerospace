@@ -9,9 +9,9 @@
 
 - Designed compact, autonomous drones for **real-time wildfire detection** using onboard computer vision and sensor data.
 - Integrated a **Raspberry Pi 5** as the onboard processor to analyze live aerial imagery.
-- Embedded **RGB**, **infrared**, and **chemical sensors** into the drone to detect multiple wildfire indicators.
+- Embedded **RGB**, **infrared**, and (planned) **chemical sensors** into the drone to detect multiple wildfire indicators.
 - Calculated **flight dynamics**, **thrust**, and **battery efficiency** based on payload and environmental constraints.
-- This work supports current and future development in the **Bolz Lab** at OSU's Department of Mechanical and Aerospace Engineering.
+- This project contributes to ongoing drone development in the **Bolz Lab** at OSU's Department of Mechanical and Aerospace Engineering.
 
 ---
 
@@ -31,15 +31,15 @@
 
 ![Early Stage](FirstFrame.png)
 
-Initial layout of the drone’s lightweight frame, selected for balance and sensor placement flexibility.
+Initial layout of the drone’s lightweight frame, selected for balance and flexible sensor placement.
 
 ---
 
-### 🔹 Sensor and Avionics Integration
+### 🔹 Motor Integration
 
 ![Part by part](SecondFrame.png)
 
-Step-by-step integration of components including the Raspberry Pi, power distribution, and sensor mounts.
+Motors mounted to the frame and wired to ESCs for thrust testing.
 
 ---
 
@@ -47,17 +47,19 @@ Step-by-step integration of components including the Raspberry Pi, power distrib
 
 ![Final Drone frame](FinalFrame.png)
 
-Fully assembled drone ready for testing, with all sensors and power systems secured and operational.
+Fully assembled drone frame ready for installation of sensors and onboard computer.
 
 ---
 
 ## 📄 Future Applications
 
-- Developing onboard **machine learning models** to classify wildfire patterns from aerial footage.
-- Enabling **real-time GPS + sensor-based alert systems** for early wildfire detection.
-- Supporting future experiments in **autonomous drone navigation** and **multi-drone swarm deployment** for large-area wildfire surveillance.
+- Integrating **chemical sensors** (e.g., smoke detection) alongside other onboard avionics.
+- Developing lightweight **machine learning models** for onboard wildfire pattern classification.
+- Enabling **real-time alert systems** using GPS and sensor fusion.
+- Supporting future research in **autonomous navigation** and **multi-drone coordination** for large-area wildfire surveillance.
 
 ---
+
 
 
 
