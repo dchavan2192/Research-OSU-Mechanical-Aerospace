@@ -1,4 +1,4 @@
-![Drone Build](IMG_5655)
+![Drone Build](DroneBuilding.png)
 # Research-OSU-Mechanical-Aerospace
 My role, achievements, publications, and conferences as an Undergraduate Student Researcher for the department of Mechanical and Aerospace Engineering
 
@@ -16,5 +16,8 @@ My role, achievements, publications, and conferences as an Undergraduate Student
 - Flight Mechanics
 
 ## Progress Pictures!
+![Early Stage](FirstFrame.png)
+![Part by part](SecondFrame.png)
+![Final Drone frame](FinalFrame.png)
 
 
